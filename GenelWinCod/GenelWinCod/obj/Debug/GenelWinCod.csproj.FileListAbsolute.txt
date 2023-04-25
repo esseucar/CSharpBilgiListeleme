@@ -1,0 +1,16 @@
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\bin\Debug\GenelWinCod.exe.config
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\bin\Debug\GenelWinCod.exe
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\bin\Debug\GenelWinCod.pdb
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\bin\Debug\EntityFramework.dll
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\bin\Debug\EntityFramework.xml
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\obj\Debug\GenelWinCod.csproj.AssemblyReference.cache
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\obj\Debug\GenelWinCod.csproj.SuggestedBindingRedirects.cache
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\obj\Debug\GenelWinCod.Form1.resources
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\obj\Debug\GenelWinCod.Properties.Resources.resources
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\obj\Debug\GenelWinCod.csproj.GenerateResource.cache
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\obj\Debug\GenelWinCod.csproj.CoreCompileInputs.cache
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\obj\Debug\GenelWinCod.csproj.CopyComplete
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\obj\Debug\GenelWinCod.exe
+C:\Users\khas\Desktop\New folder\GenelWinCod\GenelWinCod\obj\Debug\GenelWinCod.pdb
